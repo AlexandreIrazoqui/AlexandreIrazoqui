@@ -5,7 +5,7 @@ M1 student in Computer Science (Decision & Data) at Université Paris Dauphine -
 
 ### Projects
 
-- 🎲**[RubiksCubeGPT](https://github.com/alexandreirazoqui/RubiksCubeGPT)**: a 6M-parameter transformer written from scratch in PyTorch, trained to solve the Rubik's Cube from solving sequences alone. Activation patching shows it builds a world model of the cube. [Live demo](https://huggingface.co/spaces/AlexandreIrazoqui/RubiksCubeGPT)
+- 🎲 **[RubiksCubeGPT](https://github.com/alexandreirazoqui/RubiksCubeGPT)**: a 6M-parameter transformer written from scratch in PyTorch, trained to solve the Rubik's Cube from solving sequences alone. Activation patching shows it builds a world model of the cube. [Live demo](https://huggingface.co/spaces/AlexandreIrazoqui/RubiksCubeGPT)
 - 🎬 **[Movie Recommender](https://github.com/AlexandreIrazoqui/senscritique-recommender)**: collaborative filtering from scratch in NumPy on 46M+ public ratings. [Live demo](https://huggingface.co/spaces/AlexandreIrazoqui/MovieRecommender)
 
 ### Contact
